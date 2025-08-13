@@ -41,9 +41,9 @@ Each label triggers specific downstream nodes to analyze, draft, and notify acco
 
 ---
 
-## Created by Nina Pioquinto
+## Created by Maia P.
 
-Automation Systems Engineer   
+**AI Automation Engineer**   
 Helping businesses scale smart systems with ai automation and crm solutions.
 
 > Let’s build your custom system
